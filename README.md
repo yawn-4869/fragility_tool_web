@@ -15,7 +15,3 @@ return "" + this.options.paramName + (this.options.uploadMultiple ? "[" + n + "]
 修改：        
 return "" + this.options.paramName;
 ```
-
-@echo off
-START "Fragility_tool-backend" javaw -jar D:\Fragility_tool\Software\BackEnd\Fragility_tool-backend.jar
-exit
