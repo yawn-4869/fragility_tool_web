@@ -1,8 +1,19 @@
+### 环境配置说明
+
+开发环境配置文件为 `env.development`
+部署环境配置文件为 `env.production`
+
 ### 运行
 
 ```
 npm install
 npm run dev
+```
+
+### build
+
+```
+npm build:prod
 ```
 
 ### 注意
